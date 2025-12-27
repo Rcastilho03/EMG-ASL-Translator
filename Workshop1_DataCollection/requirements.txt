@@ -1,0 +1,3 @@
+pylsl==1.16.2
+serial
+brainflow

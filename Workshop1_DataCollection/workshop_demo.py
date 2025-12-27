@@ -13,6 +13,7 @@ import argparse
 import time
 from datetime import datetime
 from data_logger import DataLogger
+import pylsl;
 
 
 # ---------------------------------------------------------------------
